@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Dados grandes
+data/
+*.fits
+*.hdf5
+*.h5
+
+# Ambientes
+.venv/
+.mamba/
+conda-meta/
+.env
+DM_simu.ipynb
