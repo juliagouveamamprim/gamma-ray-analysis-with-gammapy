@@ -19,3 +19,6 @@ data/
 conda-meta/
 .env
 DM_simu.ipynb
+
+# Gammapy datasets
+gammapy-datasets/
